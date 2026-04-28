@@ -1,0 +1,461 @@
+[
+  {
+    "id": "mit-eecs",
+    "name": "MIT EECS",
+    "url": "https://www.eecs.mit.edu/academics/graduate-programs/admission/",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.04,
+      "min_gpa": 3.5,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "stanford-cs",
+    "name": "Stanford CS",
+    "url": "https://cs.stanford.edu/admissions/graduate",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.07,
+      "min_gpa": 3.5,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "cmu-scs",
+    "name": "CMU SCS",
+    "url": "https://www.cs.cmu.edu/academics/phd/admissions",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.05,
+      "min_gpa": 3.5,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "harvard-cs",
+    "name": "Harvard SEAS CS",
+    "url": "https://seas.harvard.edu/computer-science/graduate-programs/phd-program",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.05,
+      "min_gpa": 3.7,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "caltech-cs",
+    "name": "Caltech CS",
+    "url": "https://www.cms.caltech.edu/academics/grad/admissions",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.06,
+      "min_gpa": 3.5,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "princeton-cs",
+    "name": "Princeton CS",
+    "url": "https://www.cs.princeton.edu/grad/admission",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.06,
+      "min_gpa": 3.7,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "cornell-cs",
+    "name": "Cornell CS",
+    "url": "https://www.cs.cornell.edu/phd/admissions",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.09,
+      "min_gpa": 3.5,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "columbia-cs",
+    "name": "Columbia CS",
+    "url": "https://www.cs.columbia.edu/education/phd/",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.08,
+      "min_gpa": 3.3,
+      "min_gre_verbal": 155,
+      "min_gre_quant": 163,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "yale-cs",
+    "name": "Yale CS",
+    "url": "https://cpsc.yale.edu/academics/graduate-program/admissions",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.08,
+      "min_gpa": 3.5,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "jhu-cs",
+    "name": "Johns Hopkins CS",
+    "url": "https://www.cs.jhu.edu/graduate-studies/phd-program/admissions/",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.1,
+      "min_gpa": 3.0,
+      "min_gre_verbal": 153,
+      "min_gre_quant": 161,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "umich-cs",
+    "name": "University of Michigan CS",
+    "url": "https://cse.engin.umich.edu/academics/graduate/admissions/",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.11,
+      "min_gpa": 3.5,
+      "min_gre_verbal": 155,
+      "min_gre_quant": 165,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "gatech-cs",
+    "name": "Georgia Tech CS",
+    "url": "https://grad.gatech.edu/degree-programs/computer-science-phd",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.13,
+      "min_gpa": 3.0,
+      "min_gre_verbal": 153,
+      "min_gre_quant": 163,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "imperial-cs",
+    "name": "Imperial College London CS",
+    "url": "https://www.imperial.ac.uk/computing/prospective-students/pg/",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.15,
+      "min_gpa": 3.5,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 2
+    }
+  },
+  {
+    "id": "cambridge-cs",
+    "name": "University of Cambridge CS",
+    "url": "https://www.cl.cam.ac.uk/admissions/phd/",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.08,
+      "min_gpa": 3.7,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "oxford-cs",
+    "name": "University of Oxford CS",
+    "url": "https://www.cs.ox.ac.uk/admissions/graduate/",
+    "program_level": "phd",
+    "fallback_data": {
+      "program_level": "phd",
+      "acceptance_rate": 0.1,
+      "min_gpa": 3.7,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "mit-eecs-meng",
+    "name": "MIT EECS MEng",
+    "url": "https://www.eecs.mit.edu/academics/graduate-programs/meng-program/",
+    "program_level": "masters",
+    "fallback_data": {
+      "program_level": "masters",
+      "acceptance_rate": 0.15,
+      "min_gpa": 3.5,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "stanford-cs-ms",
+    "name": "Stanford CS MS",
+    "url": "https://cs.stanford.edu/admissions/masters",
+    "program_level": "masters",
+    "fallback_data": {
+      "program_level": "masters",
+      "acceptance_rate": 0.16,
+      "min_gpa": 3.3,
+      "min_gre_verbal": 155,
+      "min_gre_quant": 163,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "cmu-scs-ms",
+    "name": "CMU SCS MS",
+    "url": "https://www.cs.cmu.edu/academics/masters",
+    "program_level": "masters",
+    "fallback_data": {
+      "program_level": "masters",
+      "acceptance_rate": 0.12,
+      "min_gpa": 3.3,
+      "min_gre_verbal": 155,
+      "min_gre_quant": 165,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "columbia-cs-ms",
+    "name": "Columbia CS MS",
+    "url": "https://www.cs.columbia.edu/education/ms/",
+    "program_level": "masters",
+    "fallback_data": {
+      "program_level": "masters",
+      "acceptance_rate": 0.2,
+      "min_gpa": 3.0,
+      "min_gre_verbal": 150,
+      "min_gre_quant": 158,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "ucl-cs-ms",
+    "name": "UCL CS MSc",
+    "url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computer-science-msc",
+    "program_level": "masters",
+    "fallback_data": {
+      "program_level": "masters",
+      "acceptance_rate": 0.25,
+      "min_gpa": 3.0,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 2
+    }
+  },
+  {
+    "id": "gatech-cs-ms",
+    "name": "Georgia Tech CS MS (OMSCS)",
+    "url": "https://omscs.gatech.edu/program-info/admission-criteria",
+    "program_level": "masters",
+    "fallback_data": {
+      "program_level": "masters",
+      "acceptance_rate": 0.4,
+      "min_gpa": 3.0,
+      "min_gre_verbal": 153,
+      "min_gre_quant": 155,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": null,
+      "lor_count": 3
+    }
+  },
+  {
+    "id": "mit-undergrad",
+    "name": "MIT Undergrad (CS)",
+    "url": "https://mitadmissions.org/apply/process/",
+    "program_level": "undergrad",
+    "fallback_data": {
+      "program_level": "undergrad",
+      "acceptance_rate": 0.04,
+      "min_gpa": 3.9,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": true,
+      "min_sat": 1500,
+      "ap_classes_req": 5,
+      "lor_count": 2
+    }
+  },
+  {
+    "id": "stanford-undergrad",
+    "name": "Stanford Undergrad (CS)",
+    "url": "https://admission.stanford.edu/apply/",
+    "program_level": "undergrad",
+    "fallback_data": {
+      "program_level": "undergrad",
+      "acceptance_rate": 0.04,
+      "min_gpa": 3.9,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": true,
+      "min_sat": 1490,
+      "ap_classes_req": 4,
+      "lor_count": 2
+    }
+  },
+  {
+    "id": "cmu-undergrad",
+    "name": "CMU Undergrad (CS)",
+    "url": "https://admission.cmu.edu/apply",
+    "program_level": "undergrad",
+    "fallback_data": {
+      "program_level": "undergrad",
+      "acceptance_rate": 0.07,
+      "min_gpa": 3.8,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": true,
+      "min_sat": 1500,
+      "ap_classes_req": 4,
+      "lor_count": 2
+    }
+  },
+  {
+    "id": "umich-undergrad",
+    "name": "University of Michigan Undergrad (CS)",
+    "url": "https://admissions.umich.edu/apply",
+    "program_level": "undergrad",
+    "fallback_data": {
+      "program_level": "undergrad",
+      "acceptance_rate": 0.18,
+      "min_gpa": 3.7,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": true,
+      "min_sat": 1400,
+      "ap_classes_req": 4,
+      "lor_count": 2
+    }
+  },
+  {
+    "id": "gatech-undergrad",
+    "name": "Georgia Tech Undergrad (CS)",
+    "url": "https://admission.gatech.edu/apply",
+    "program_level": "undergrad",
+    "fallback_data": {
+      "program_level": "undergrad",
+      "acceptance_rate": 0.17,
+      "min_gpa": 3.7,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": true,
+      "min_sat": 1390,
+      "ap_classes_req": 4,
+      "lor_count": 2
+    }
+  },
+  {
+    "id": "imperial-undergrad",
+    "name": "Imperial College London Undergrad (CS)",
+    "url": "https://www.imperial.ac.uk/study/courses/undergraduate/computing/",
+    "program_level": "undergrad",
+    "fallback_data": {
+      "program_level": "undergrad",
+      "acceptance_rate": 0.14,
+      "min_gpa": 3.8,
+      "min_gre_verbal": null,
+      "min_gre_quant": null,
+      "requires_sat": false,
+      "min_sat": null,
+      "ap_classes_req": 3,
+      "lor_count": 2
+    }
+  }
+]
