@@ -177,10 +177,10 @@ Each component score $S$ is clamped to $[0, 1]$ and computed as:
 
 | Component      | Weight | Formula                                                                                  |
 | -------------- | ------ | ---------------------------------------------------------------------------------------- |
-| GPA            | 40%    | $\min\!\left(1,\; \dfrac{G_{\text{student}}}{G_{\min}}\right)$                           |
+| GPA            | 40%    | $\min\left(1, \dfrac{G_{\text{student}}}{G_{\min}}\right)$                           |
 | Test score     | 30%    | SAT ratio if required; average GRE verbal+quant ratio otherwise; 1.0 if no test required |
-| AP classes     | 20%    | $\min\!\left(1,\; \dfrac{A_{\text{done}}}{A_{\text{req}}}\right)$                        |
-| Letters of rec | 10%    | $\min\!\left(1,\; \dfrac{L_{\text{student}}}{L_{\text{req}}}\right)$                     |
+| AP classes     | 20%    | $\min\left(1, \dfrac{A_{\text{done}}}{A_{\text{req}}}\right)$                        |
+| Letters of rec | 10%    | $\min\left(1, \dfrac{L_{\text{student}}}{L_{\text{req}}}\right)$                     |
 
 **Confidence** reflects how many of the scored fields had data in the database:
 
